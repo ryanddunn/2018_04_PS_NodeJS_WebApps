@@ -1,0 +1,10 @@
+4.29.2018
+=============================
+- $ node app.js
+run the simple app
+
+- $ npm init
+init the application with the new express library
+
+- $ npm install express --save
+installs the libraries related to express
