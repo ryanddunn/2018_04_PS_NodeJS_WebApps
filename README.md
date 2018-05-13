@@ -11,8 +11,8 @@
 ## GitHub Notes ##
 
 * __PULL__
-    * '$ git pull'
+    * `$ git pull`
 * __PUSH__
-    * '$ git add -A .'
-    * '$ git commit -m "A note about the commit"'
-    * '$ git push -u origin master'
+    * `$ git add -A .`
+    * `$ git commit -m "A note about the commit"`
+    * `$ git push -u origin master`
